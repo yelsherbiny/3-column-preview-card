@@ -6,6 +6,9 @@
   --very-light-gray: hsl(0, 0%, 95%);
 }
 body{
+  margin: 0;
+}
+main{
   background-color: var(--very-light-gray);
 }
 .container{
